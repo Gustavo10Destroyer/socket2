@@ -151,6 +151,15 @@ while socket.is_connected():
     socket.step()
 ```
 
+## Socket.broadcast(data: bytes) -> None
+### data: bytes
+### Retorna: None
+### Descrição: Envia dados para todos os clientes conectados
+```py
+    ... # o trecho de código anterior
+    socket.broadcast(b"Olá mundo!")
+```
+
 ## Socket.on(event: str) -> Callable
 ### event: str
 ### Retorna: Callable
