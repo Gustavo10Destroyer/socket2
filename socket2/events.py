@@ -1,3 +1,10 @@
+"""
+Copyright (c) 2022-2024 Gustavo Vitor Alves Santos
+
+Este projeto é de código aberto e pode ser modificado e distribuído sob os termos da Licença de Uso Não-Comercial e Restrita a IA disponível em https://github.com/Gustavo10Destroyer/socket2/blob/master/LICENSE.
+
+Para os termos de uso comercial deste software e para o uso em treinamento de modelos para IA, consulte a Licença de Uso Não-Comercial e Restrita a IA mencionada acima.
+"""
 from typing import List
 from typing import Callable
 
