@@ -1,5 +1,9 @@
 # socket2
 
+## Licença
+
+Este projeto está licenciado sob a [Licença de Uso Não-Comercial e Restrita a IA](LICENSE).
+
 ## Exemplo de cliente
 ```py
 from socket2 import Socket
